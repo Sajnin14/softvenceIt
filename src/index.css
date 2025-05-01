@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Manrope:wght@200..800&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Questrial&display=swap');
+
+.font-jakarta{
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.font-manrope{
+  font-family: "Manrope", sans-serif;
+}
+
+.font-lato{
+  font-family: "Lato", sans-serif;
+}
+
+.font-geist{
+  font-family: "Geist", sans-serif;
+}
+
+.font-questrial{
+  font-family: "Questrial", sans-serif;
+}
