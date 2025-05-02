@@ -42,7 +42,7 @@ const Chatbot = () => {
                 <h3 className="text-6xl text-white mt-5">Take a Suggestion Coaching </h3>
 
 
-                <div className="my-[60px] flex gap-5 ">
+                <div className="my-[60px] md:flex gap-5 ">
                     {/* div1 */}
                     <div className="rounded-xl bg-white pt-3 w-full">
                         <p className="text-lg text-[#1B1B1B] px-8 pb-6">AI Sales Coach</p>
